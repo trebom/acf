@@ -1,0 +1,11 @@
+
+17.2
+npx create-react-app acf --template=typescript
+
+https://chakra-ui.com/getting-started
+
+npm i @chakra-ui/react @emotion/react @emotion/styled framer-motion
+
+npm react-router-dom
+
+** npx create-react-app my-app --template @chakra-ui/typescript
